@@ -81,4 +81,14 @@ Example:
 
 Schedule data is provided by OpenF1.
 
+## OpenF1
+
+Schedule data is provided by [OpenF1](https://openf1.org/).
+
+OpenF1 data is licensed under the [CC BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+This project is unofficial and is not affiliated with Formula 1.
+
+## Disclaimer
+
 This repository is not affiliated with Formula 1.
